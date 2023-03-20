@@ -2,6 +2,8 @@
 
 _Helper plugins for Swift PM. os.log and intents_
 
+[![Swift](https://github.com/JoeMatt/SwiftPMPlugins/actions/workflows/swift.yml/badge.svg)](https://github.com/JoeMatt/SwiftPMPlugins/actions/workflows/swift.yml)
+
 ![Alt](https://repobeats.axiom.co/api/embed/7bb013c63128c18542be91c99b99650bf266fb67.svg "Repobeats analytics image")
 
 ## Contents
